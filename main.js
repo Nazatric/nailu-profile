@@ -65,7 +65,7 @@ var notes=[
         date:"2026-09-17",
     },
     {
-        title:"Site cover",
+        title:"STILL WORKING",
         content:"<img width='200' src='./media/photos_other/site_cover.jpg'><br><p>September 7 2026<br>I'm still working on this site</p>",
         thumbnail:"./media/photos_other/site_cover.jpg",
         short_description: "I'm still working on this site",
